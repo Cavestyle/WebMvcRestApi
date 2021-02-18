@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace OpendorseWebMvc.Models
+namespace WebMvcRestApi.Models
 {
     public class AlbumModel
     {

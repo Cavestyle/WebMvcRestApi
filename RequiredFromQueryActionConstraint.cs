@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc.ActionConstraints;
 
-namespace OpendorseWebMvc
+namespace WebMvcRestApi
 {
     // Create new ActionContraint using endpoint parameter
     public class RequiredFromQueryActionConstraint : IActionConstraint

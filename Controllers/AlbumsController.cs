@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
-using OpendorseWebMvc.Interfaces;
-using OpendorseWebMvc.Models;
+using WebMvcRestApi.Interfaces;
+using WebMvcRestApi.Models;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace OpendorseWebMvc.Controllers
+namespace WebMvcRestApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

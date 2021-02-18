@@ -1,4 +1,4 @@
-namespace OpendorseWebMvc.Models
+namespace WebMvcRestApi.Models
 {
     public class ErrorViewModel
     {

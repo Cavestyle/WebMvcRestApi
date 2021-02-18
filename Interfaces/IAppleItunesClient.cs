@@ -1,7 +1,7 @@
-﻿using OpendorseWebMvc.Models;
+﻿using WebMvcRestApi.Models;
 using System.Threading.Tasks;
 
-namespace OpendorseWebMvc.Interfaces
+namespace WebMvcRestApi.Interfaces
 {
     public interface IAppleItunesClient
     {

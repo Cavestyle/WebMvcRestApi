@@ -1,12 +1,12 @@
 ﻿using Newtonsoft.Json;
-using OpendorseWebMvc.Interfaces;
-using OpendorseWebMvc.Models;
+using WebMvcRestApi.Interfaces;
+using WebMvcRestApi.Models;
 using System;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
 
-namespace OpendorseWebMvc
+namespace WebMvcRestApi
 {
     public class AppleItunesClient : IAppleItunesClient
     {

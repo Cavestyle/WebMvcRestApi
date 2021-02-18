@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using OpendorseWebMvc.Models;
+using WebMvcRestApi.Models;
 using System.Diagnostics;
 
-namespace OpendorseWebMvc.Controllers
+namespace WebMvcRestApi.Controllers
 {
     public class HomeController : Controller
     {

@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc.ApplicationModels;
 using System.Linq;
 
-namespace OpendorseWebMvc
+namespace WebMvcRestApi
 {
     // Create new attribute inheriting FromQueryAttribute, IParameterModelConvention
     public class RequiredFromQueryAttribute : FromQueryAttribute, IParameterModelConvention

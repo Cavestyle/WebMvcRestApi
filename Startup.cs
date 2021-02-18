@@ -3,9 +3,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using OpendorseWebMvc.Interfaces;
+using WebMvcRestApi.Interfaces;
 
-namespace OpendorseWebMvc
+namespace WebMvcRestApi
 {
     public class Startup
     {
